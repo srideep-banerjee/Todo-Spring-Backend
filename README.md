@@ -24,4 +24,4 @@ server.error.include-stacktrace=never
 
 ### Get frontend source code
 
-The frontend source code can be found at [github.com/srideep-banerjee/Todo-React-Frontend]([url](https://github.com/srideep-banerjee/Todo-React-Frontend))
+The frontend source code can be found at [github.com/srideep-banerjee/Todo-React-Frontend](https://github.com/srideep-banerjee/Todo-React-Frontend)
