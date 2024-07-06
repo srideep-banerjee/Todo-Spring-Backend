@@ -11,7 +11,7 @@ To get started, follow these steps:
 
 ### ⚠️ Before you begin
 
-Add a file named `application.properties` in the directory `\src\main\resources\` with the following contents:
+1. Add a file named `application.properties` in the directory `\src\main\resources\` with the following contents:
 ```
 spring.application.name=springexperiments
 spring.datasource.url=[Your database url]
@@ -20,3 +20,8 @@ spring.datasource.password=[Your database user password]
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 server.error.include-stacktrace=never
 ```
+2. Add the static web files to the directory `\src\main\resources\static\`
+
+### Get frontend source code
+
+The frontend source code can be found at [github.com/srideep-banerjee/Todo-React-Frontend]([url](https://github.com/srideep-banerjee/Todo-React-Frontend))
